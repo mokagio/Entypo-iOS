@@ -1,0 +1,14 @@
+PODS:
+  - Stencils (1.0.0)
+
+DEPENDENCIES:
+  - Stencils (from `../../Stencils`)
+
+EXTERNAL SOURCES:
+  Stencils:
+    :path: ../../Stencils
+
+SPEC CHECKSUMS:
+  Stencils: 755d226ad423982edf0efaf3348985052ea2bf07
+
+COCOAPODS: 0.34.4

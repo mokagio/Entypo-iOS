@@ -1,0 +1,12 @@
+platform :ios
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'EntypoExample' do
+  pod 'Stencils', :path => '../../Stencils'
+end
+
+target 'EntypoExampleTests' do
+
+end
+

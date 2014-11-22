@@ -1,0 +1,43 @@
+# OSX stuff
+.DS_Store
+
+# Xcode per-user config
+*.mode1
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspective
+*.perspectivev3
+!default.perspectivev3
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+
+# Build products
+build/
+DerivedData
+*.o
+*.LinkFileList
+*.hmap
+*.ipa
+
+# Automatic backup files
+*~.nib/
+*.swp
+*~
+*.dat
+*.dep
+
+# AppCode
+# This project intentionally ignores the .idea folder.
+# If this will change in the future a starting point do decide what to track is:
+#  https://intellij-support.jetbrains.com/entries/23393067
+.idea
+
+# CocoaPods
+# This project intentionally tracks pods
+# Pods/*
